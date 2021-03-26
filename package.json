@@ -1,6 +1,6 @@
 {
-  "name": "ebay-node-client",
-  "version": "0.0.10",
+  "name": "@butztech/ebay-node-client",
+  "version": "1.0.0",
   "description": "eBay API wrapper",
   "keywords": [
     "eBay",
@@ -47,18 +47,25 @@
     "eBay-node-api",
     "eBay-node"
   ],
-  "homepage": "https://github.com/bhushankumarl/eBay-node-client",
+  "homepage": "https://github.com/butztech/ebay-node-client",
   "author": "Bhushankumar Lilapara<bhushankumar.lilapara@gmail.com>",
   "contributors": [
-    "Bhushankumar Lilapara (bhushankumar.lilapara@gmail.com)"
+    {
+      "name": "Bhushankumar Lilapara",
+      "email": "bhushankumar.lilapara@gmail.com"
+    },
+    {
+      "name": "Jason Butz",
+      "url": "https://jasonbutz.info"
+    }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bhushankumarl/eBay-node-client.git"
+    "url": "git://github.com/butztech/ebay-node-client.git"
   },
-  "bugs:": "https://github.com/bhushankumarl/eBay-node-client/issues",
+  "bugs:": "https://github.com/butztech/ebay-node-client/issues",
   "engines": {
-    "node": ">= v0.10.0"
+    "node": ">= 12"
   },
   "main": "lib/eBay-node-client.js",
   "devDependencies": {

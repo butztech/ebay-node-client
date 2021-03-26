@@ -1,3 +1,6 @@
+1.0.0
+    - Updated Commerce Taxonomy API from v1-beta to v1
+
 0.0.10
     - Add support for override content language 
     - Add support for the fulfillment API
